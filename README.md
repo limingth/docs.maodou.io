@@ -1,3 +1,4 @@
-# My Awesome Book
+# 毛豆网产品信息中心
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+**毛豆网**是专注于为内容创业服务的SaaS平台。基于**毛豆网**的“微豆云”平台，可为自媒体、在线教育、网红等内容创业者提供一站式云服务，涵盖了技术开发、营销推广、平台运营和托管等领域，解决了当前内容创业普遍存在的启动资金少，技术力量弱、营销成本高等痛点问题。
+
