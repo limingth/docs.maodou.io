@@ -8,7 +8,7 @@
 
 注册成功后，毛豆网会发送一封邮件到您的邮箱账户，请您打开邮件内的链接地址，对邮箱进行验证，验证成功后，记住用户名和密码，可以进行后续的开发。
 
-![](http://7xr656.com1.z0.glb.clouddn.com/email-varify.png)
+![](http://7xr656.com1.z0.glb.clouddn.com/maodou/email-varify.png)
 
 ## 2. 开发场景
 
