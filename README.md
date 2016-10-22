@@ -6,11 +6,11 @@
 
 在创建项目前，需要到网站[注册页面](https://maodouapp.com/register)注册一个新用户，老用户请到[登陆页面](https://maodouapp.com/login)直接登陆。如下图所示：
 
-![](https://i.imgur.com/9SpPaCv.png)
+![](https://of6ygwuso.qnssl.com/wiki/web-user-docs-pic/user-reg.png)
 
 注册成功后，毛豆网会发送一封邮件到您的邮箱账户，请您打开邮件内的链接地址，对邮箱进行验证，验证成功后，记住用户名和密码，可以进行后续的开发。
 
-![](http://7xr656.com1.z0.glb.clouddn.com/maodou/email-varify.png)
+![](https://of6ygwuso.qnssl.com/wiki/web-user-docs-pic/email-varify.png)
 
 ## 2. 开发场景
 
