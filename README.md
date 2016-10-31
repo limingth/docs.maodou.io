@@ -87,17 +87,32 @@ https://myapp.maodouapp.com/
 
 - 用`meteor`生成一个项目(这里`meteor`版本为`1.4.1.2`)
 
-```//项目名称为maodoudemometeor create maodoudemo// 进入项目目录cd maodoudemo// （可选）运行`meteor`命令在浏览器`localhost:3000`中查看meteor```
+```
+//项目名称为maodoudemo
+meteor create maodoudemo
+// 进入项目目录
+cd maodoudemo
+// （可选）运行`meteor`命令在浏览器`localhost:3000`中查看
+meteor
+```
 
 - `git`初始化项目，并提交（已经有`git`版本控制的项目可以省略此步骤）
 
-```git initgit add .git commit -m 'test'```
+```
+git init
+git add .
+git commit -m 'test'
+```
 
 - 用`maodou cli`工具进行部署的初始化
 
-```// 这里为了和本项目名称区别，使用了`maodoutest`名称// maodoutest表示的是网站的二级域名名称，是唯一的maodou init maodoutest
+```
+// 这里为了和本项目名称区别，使用了`maodoutest`名称
+// maodoutest表示的是网站的二级域名名称，是唯一的
+maodou init maodoutest
 
-// 如果出现以下错误，需要更换名称400 - "domain name already exist"```
+// 如果出现以下错误，需要更换名称
+400 - "domain name already exist"```
 
 - 部署代码至毛豆 Galaxy
 
