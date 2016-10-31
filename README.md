@@ -109,11 +109,16 @@ maodou login
 - 用`meteor`生成一个项目(这里`meteor`版本为`1.4.1.2`)
 
 ```
-\//项目名称为maodoudemo
+//项目名称为maodoudemo
+
 meteor create maodoudemo
-\// 进入项目目录
+
+// 进入项目目录
+
 cd maodoudemo
-\// （可选）运行`meteor`命令在浏览器`localhost:3000`中查看
+
+// （可选）运行`meteor`命令在浏览器`localhost:3000`中查看
+
 meteor
 ```
 
@@ -128,11 +133,15 @@ git commit -m 'test'
 - 用`maodou cli`工具进行部署的初始化
 
 ```
-\// 这里为了和本项目名称区别，使用了`maodoutest`名称
-\// maodoutest表示的是网站的二级域名名称，是唯一的
+// 这里为了和本项目名称区别，使用了`maodoutest`名称
+
+// maodoutest表示的是网站的二级域名名称，是唯一的
+
 maodou init maodoutest
 
-\// 如果出现以下错误，需要更换名称
+
+// 如果出现以下错误，需要更换名称
+
 400 - "domain name already exist"
 ```
 
