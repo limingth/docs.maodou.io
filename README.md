@@ -14,19 +14,19 @@
 
 ## 2. 开发场景
 
-### 2.1 场景 1(用户基于 Base 构建自己的代码)
+### 2.1 场景 1\(用户基于 Base 构建自己的代码\)
 
 * 安装 maodou cli
 
-```npm install -g maodou```
+`npm install -g maodou`
 
 * 命令行登录毛豆网，输入毛豆网账号密码
 
-```maodou login```
+`maodou login`
 
 * 生成项目
 
-```maodou create myapp```
+`maodou create myapp`
 
 * 修改项目代码
 
@@ -34,15 +34,17 @@
 
 * 部署代码至毛豆 Galaxy
 
-```maodou deploy```
+`maodou deploy`
 
 * 访问网站
 
 部署完成后，前往项目网址查看
 
-```https://myapp.maodouapp.com/```
+```
+https://myapp.maodouapp.com/
+```
 
-### 2.2 场景 2 (用户自己有项目代码，只是部署测试，暂时尚未支持，计划下周10.24能够实现）
+### 2.2 场景 2 (用户自己有项目代码，通过maodou工具进行部署展示）
 
 * 安装 maodou cli
 
@@ -50,14 +52,58 @@
 
 * 命令行登录毛豆网，输入毛豆网账号密码
 
+
 ```maodou login```
+
+* 进入到用户项目所在目录
+
+```cd project_dir```
+
+* 用部署的二级域名进行初始化
+
+```maodou init subdomainName```
 
 * 部署代码至毛豆 Galaxy
 
-```maodou deploy myapp.maodouapp.com```
+```maodou deploy ```
 
 * 部署完成后，访问网站
 
-```https://myapp.maodouapp.com/```
+```https://subdomainName.maodouapp.com/```
 
+## 3.完整示例
+
+这里我们将演示如何通过`maodou-cli`把`Meteor create`默认生成的项目部署到我们的`maodou galaxy`服务器上：
+
+- 安装`maodou-cli`,(可能需要`sudo`权限)
+
+```sudo npm install -g maodou
+
+```
+
+- 命令行登录[毛豆网](https://maodou.io/)，输入毛豆网账号密码(需要先在毛豆网注册成功)
+
+```maodou login```
+
+- 用`meteor`生成一个项目(这里`meteor`版本为`1.4.1.2`)
+
+```//项目名称为maodoudemometeor create maodoudemo// 进入项目目录cd maodoudemo// （可选）运行`meteor`命令在浏览器`localhost:3000`中查看meteor```
+
+- `git`初始化项目，并提交（已经有`git`版本控制的项目可以省略此步骤）
+
+```git initgit add .git commit -m 'test'```
+
+- 用`maodou cli`工具进行部署的初始化
+
+```// 这里为了和本项目名称区别，使用了`maodoutest`名称// maodoutest表示的是网站的二级域名名称，是唯一的maodou init maodoutest
+
+// 如果出现以下错误，需要更换名称400 - "domain name already exist"```
+
+- 部署代码至毛豆 Galaxy
+
+```maodou deploy```
+
+- 部署完成后，访问网站，即可看到`meteor`默认生成的项目已经跑起来了
+
+```http://maodoutest.maodouapp.com/```
 
