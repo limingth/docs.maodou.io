@@ -14,19 +14,25 @@
 
 ## 2. 开发场景
 
-### 2.1 场景 1\(用户基于 Base 构建自己的代码\)
+### 2.1 场景 1(用户基于 Base 构建自己的代码)
 
 * 安装 maodou cli
 
-```npm install -g maodou```
+```
+npm install -g maodou
+```
 
 * 命令行登录毛豆网，输入毛豆网账号密码
 
-```maodou login```
+```
+maodou login
+```
 
 * 生成项目
 
-```maodou create myapp```
+```
+maodou create myapp
+```
 
 * 修改项目代码
 
@@ -34,7 +40,9 @@
 
 * 部署代码至毛豆 Galaxy
 
-`maodou deploy`
+```
+maodou deploy
+```
 
 * 访问网站
 
@@ -48,28 +56,38 @@ https://myapp.maodouapp.com/
 
 * 安装 maodou cli
 
-```npm install -g maodou```
+```
+npm install -g maodou
+```
 
 * 命令行登录毛豆网，输入毛豆网账号密码
 
-
-```maodou login```
+```
+maodou login
+```
 
 * 进入到用户项目所在目录
-
-```cd project_dir```
+```
+cd project_dir
+```
 
 * 用部署的二级域名进行初始化
-
-```maodou init subdomainName```
+```
+maodou init subdomainName
+```
 
 * 部署代码至毛豆 Galaxy
 
-```maodou deploy ```
+```
+maodou deploy
+```
 
 * 部署完成后，访问网站
 
-```https://subdomainName.maodouapp.com/```
+```
+https://subdomainName.maodouapp.com/
+```
+
 
 ## 3.完整示例
 
@@ -77,13 +95,16 @@ https://myapp.maodouapp.com/
 
 - 安装`maodou-cli`,(可能需要`sudo`权限)
 
-```sudo npm install -g maodou
+```
+sudo npm install -g maodou
 
 ```
 
 - 命令行登录[毛豆网](https://maodou.io/)，输入毛豆网账号密码(需要先在毛豆网注册成功)
 
-```maodou login```
+```
+maodou login
+```
 
 - 用`meteor`生成一个项目(这里`meteor`版本为`1.4.1.2`)
 
@@ -112,13 +133,17 @@ git commit -m 'test'
 maodou init maodoutest
 
 // 如果出现以下错误，需要更换名称
-400 - "domain name already exist"```
+400 - "domain name already exist"
+```
 
 - 部署代码至毛豆 Galaxy
 
-```maodou deploy```
+```
+maodou deploy
+```
 
 - 部署完成后，访问网站，即可看到`meteor`默认生成的项目已经跑起来了
 
-```http://maodoutest.maodouapp.com/```
-
+```
+http://maodoutest.maodouapp.com/
+```
