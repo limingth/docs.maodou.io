@@ -18,15 +18,15 @@
 
 * 安装 maodou cli
 
-`npm install -g maodou`
+```npm install -g maodou```
 
 * 命令行登录毛豆网，输入毛豆网账号密码
 
-`maodou login`
+```maodou login```
 
 * 生成项目
 
-`maodou create myapp`
+```maodou create myapp```
 
 * 修改项目代码
 
