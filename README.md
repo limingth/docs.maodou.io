@@ -88,7 +88,6 @@ maodou deploy
 https://subdomainName.maodouapp.com/
 ```
 
-
 ## 3.完整示例
 
 这里我们将演示如何通过`maodou-cli`把`Meteor create`默认生成的项目部署到我们的`maodou galaxy`服务器上：
@@ -97,7 +96,6 @@ https://subdomainName.maodouapp.com/
 
 ```
 sudo npm install -g maodou
-
 ```
 
 - 命令行登录[毛豆网](https://maodou.io/)，输入毛豆网账号密码(需要先在毛豆网注册成功)
@@ -110,15 +108,10 @@ maodou login
 
 ```
 //项目名称为maodoudemo
-
 meteor create maodoudemo
-
 // 进入项目目录
-
 cd maodoudemo
-
 // （可选）运行`meteor`命令在浏览器`localhost:3000`中查看
-
 meteor
 ```
 
