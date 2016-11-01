@@ -107,8 +107,7 @@ maodou login
 - 用`meteor`生成一个项目(这里`meteor`版本为`1.4.1.2`)
 
 ```
-\/\/项目名称为maodoudemo
-meteor create maodoudemo
+meteor create maodoudemo  //项目名称为maodoudemo
 \/\/ 进入项目目录
 cd maodoudemo
 \/\/ （可选）运行`meteor`命令在浏览器`localhost:3000`中查看
