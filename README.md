@@ -92,7 +92,7 @@ https://subdomainName.maodouapp.com/
 
 这里我们将演示如何通过`maodou-cli`把`Meteor create`默认生成的项目部署到我们的`maodou galaxy`服务器上：
 
-- 安装`maodou-cli`,(可能需要`sudo`权限)
+- 安装`maodou-cli`(可能需要`sudo`权限)
 
 ```
 sudo npm install -g maodou
@@ -127,14 +127,10 @@ git commit -m 'test'
 
 ```
 // 这里为了和本项目名称区别，使用了`maodoutest`名称
-
 // maodoutest表示的是网站的二级域名名称，是唯一的
-
 maodou init maodoutest
 
-
 // 如果出现以下错误，需要更换名称
-
 400 - "domain name already exist"
 ```
 
