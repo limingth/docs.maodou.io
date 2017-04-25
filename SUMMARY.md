@@ -7,4 +7,7 @@
   * [手册]() -->
 * [快速上手]()
   * [音频直播快速体验](docs/quickstart/音频直播快速体验.md)
-* [常见问题]()
+
+* [客户使用须知](docs/custom/README.md)
+
+* [常见问题](docs/faq/README.md)
