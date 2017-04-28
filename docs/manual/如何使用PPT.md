@@ -1,8 +1,10 @@
+[返回首页](../../README.md)
+
 # 如何使用PPT功能
 **目前PPT功能，只能在直播和直播回放中使用**
 
 ### 1. 生成PPT图片
-在PPT中通过“保存为图片...”，可以将PPT保存为图片
+在PPT中通过“保存为图片...”，可以将PPT保存为图片，**推荐使用16:9的PPT**
 
 ![转换PPT](https://of6ygwuso.qnssl.com/docs/quickstart/转换ppt1.png)
 
@@ -56,3 +58,5 @@
 - 在回放中查看PPT
 
 ![查看ppt2](https://of6ygwuso.qnssl.com/docs/quickstart/查看ppt2.png)
+
+[返回首页](../../README.md)
