@@ -1,6 +1,6 @@
 # Summary
 
-* [快速导航](README.md)
+* [毛豆网](README.md)
 <!-- * [开发者文档](docs/manual/开发者文档.md) -->
 * [网站用户手册](docs/manual/网站用户手册.md)
 
