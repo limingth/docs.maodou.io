@@ -5,5 +5,5 @@ docker	run -e \
 	-d \
 	-v "$PWD:/gitbook" \
 	-p 4000:4000 \
-	index.alauda.cn/klbjlabs/gitbook:v3.2.0 \
+        registry.cn-beijing.aliyuncs.com/maodouio/gitbook:v3.2.0 \
 	serve
