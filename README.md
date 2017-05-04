@@ -1,5 +1,7 @@
 # 毛豆网
 
+[接入指引](./docs/manual/接入指引.md)
+
 [产品特色与功能](./docs/quickstart/features.md)
 
 [音频直播快速体验](./docs/quickstart/音频直播快速体验.md)
