@@ -1,14 +1,16 @@
 # 毛豆网
 
-[接入指引](./docs/manual/接入指引.md)
+[接入指引](./docs/manual/guide.md)
 
 [产品特色与功能](./docs/quickstart/features.md)
 
-[音频直播快速体验](./docs/quickstart/音频直播快速体验.md)
+[音频直播快速体验](./docs/quickstart/intro-live.md)
+
+[音视频录播快速体验](./docs/quickstart/intro-audio.md)
 
 [如何使用PPT功能](./docs/manual/how-to-use-PPT.md)
 
-[如何邀请嘉宾](./docs/manual/如何邀请嘉宾.md)
+[如何邀请嘉宾](./docs/manual/how-to-invite.md)
 
 <!-- [开发者文档](开发者文档.md)
 

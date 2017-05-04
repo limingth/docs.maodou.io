@@ -48,7 +48,7 @@
 
 上传PPT请参考 -> [如何使用PPT功能](../manual/how-to-use-PPT.md)
 
-邀请嘉宾 -> [如何邀请直播嘉宾](../manual/如何邀请嘉宾.md)
+邀请嘉宾 -> [如何邀请直播嘉宾](../manual/how-to-invite.md)
 
 
 ### 4. 开始直播
