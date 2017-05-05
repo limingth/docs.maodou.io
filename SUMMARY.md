@@ -4,7 +4,7 @@
 <!-- * [开发者文档](docs/manual/开发者文档.md) -->
 * [接入指引](docs/manual/guide.md)
 
-* [网站用户手册](docs/manual/user-docs.md)
+<!-- * [网站用户手册](docs/manual/user-docs.md) -->
 
 * [产品特色与功能](docs/quickstart/features.md)
 
