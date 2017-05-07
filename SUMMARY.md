@@ -11,6 +11,7 @@
 * [快速上手]()
   * [音频直播快速体验](docs/quickstart/intro-live.md)
   * [音视频录播快速体验](docs/quickstart/intro-audio.md)
+  * [轮播图功能快速体验](docs/quickstart/intro-carousel.md)
 
 * [用户指南]()
   * [如何使用PPT功能](docs/manual/how-to-use-PPT.md)
