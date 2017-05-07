@@ -8,6 +8,8 @@
 
 [音视频录播快速体验](./docs/quickstart/intro-audio.md)
 
+[专栏快速体验](./docs/quickstart/intro-column.md)
+
 [如何使用PPT功能](./docs/manual/how-to-use-PPT.md)
 
 [如何邀请嘉宾](./docs/manual/how-to-invite.md)
