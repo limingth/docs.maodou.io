@@ -15,6 +15,7 @@
   * [轮播图功能快速体验](docs/quickstart/intro-carousel.md)
 
 * [用户指南]()
+  * [如何申请直播](docs/manual/how-to-apply-live.md)
   * [如何使用PPT功能](docs/manual/how-to-use-PPT.md)
   * [如何邀请嘉宾](docs/manual/how-to-invite.md)
 
