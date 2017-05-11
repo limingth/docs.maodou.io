@@ -13,6 +13,7 @@
   * [音视频录播快速体验](docs/quickstart/intro-audio.md)
   * [专栏快速体验](docs/quickstart/intro-column.md)
   * [轮播图功能快速体验](docs/quickstart/intro-carousel.md)
+  * [分销渠道快速体验](docs/quickstart/intro-channel.md)
 
 * [用户指南]()
   * [如何申请直播](docs/manual/how-to-apply-live.md)
