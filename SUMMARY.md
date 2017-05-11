@@ -8,14 +8,14 @@
 
 * [产品特色与功能](docs/quickstart/features.md)
 
-* [快速上手]()
+* [快速上手](docs/quickstart/README.md)
   * [音频直播快速体验](docs/quickstart/intro-live.md)
   * [音视频录播快速体验](docs/quickstart/intro-audio.md)
   * [专栏快速体验](docs/quickstart/intro-column.md)
   * [轮播图功能快速体验](docs/quickstart/intro-carousel.md)
   * [分销渠道快速体验](docs/quickstart/intro-channel.md)
 
-* [用户指南]()
+* [用户指南](docs/manual/README.md)
   * [如何申请直播](docs/manual/how-to-apply-live.md)
   * [如何使用PPT功能](docs/manual/how-to-use-PPT.md)
   * [如何邀请嘉宾](docs/manual/how-to-invite.md)
