@@ -10,7 +10,7 @@
 
 
 - 哪些设备可以用于主播端直播？
-    - PC/Mac，Chrome浏览器
+    - PC/Mac，[Chrome浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)
     - 主流安卓手机
 
 
