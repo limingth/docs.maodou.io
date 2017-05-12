@@ -16,6 +16,10 @@
 
 [如何邀请嘉宾](./docs/manual/how-to-invite.md)
 
+[客户使用须知](./docs/custom/README.md)
+
+[常见问题](./docs/faq/README.md)
+
 <!-- [开发者文档](开发者文档.md)
 [网站用户手册](网站用户手册.md)
 
