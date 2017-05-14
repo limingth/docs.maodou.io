@@ -1,1 +1,12 @@
 /* CSS for website */
+
+.page-wrapper {
+  background-color: #F8F9FA;
+  color: #fff;
+}
+h3 {
+  color: #f44;
+}
+h1 {
+  color: #555;
+}
