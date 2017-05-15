@@ -4,7 +4,9 @@
 
 ### 1. 页面登陆
 
-首先打开[浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)，在浏览器中进入[毛豆网管理员页面](https://live.maodou.io/admin/login)样式如下：
+首先打开浏览器，在浏览器中进入[毛豆网管理员页面](https://live.maodou.io/admin/login)样式如下：
+
+**我们推荐使用Chrome浏览器，以获得更好的直播体验**，下载地址：[Chrome浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)
 
 ![管理员页面](https://of6ygwuso.qnssl.com/docs/quickstart/zhibo-login.png)
 

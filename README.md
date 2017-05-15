@@ -1,29 +1,34 @@
-# 毛豆网
+# 毛豆网音频直播产品使用手册
 
-[接入指引](./docs/manual/guide.md)
+- [接入指引](./docs/manual/guide.md)
 
-[产品特色与功能](./docs/quickstart/features.md)
+- [产品特色与功能](./docs/quickstart/features.md)
 
-[音频直播快速体验](./docs/quickstart/intro-live.md)
+- [快速上手](docs/quickstart/README.md)
+  - [音频直播快速体验](docs/quickstart/intro-live.md)
 
-[音视频录播快速体验](./docs/quickstart/intro-audio.md)
+  - [音视频录播快速体验](docs/quickstart/intro-audio.md)
 
-[专栏快速体验](./docs/quickstart/intro-column.md)
+  - [更多](docs/quickstart/README.md)
 
-[如何申请直播](./docs/manual/how-to-apply-live.md)
+- [用户指南](docs/manual/README.md)
+  - [如何申请直播](docs/manual/how-to-apply-live.md)
 
-[如何使用PPT功能](./docs/manual/how-to-use-PPT.md)
+  - [如何使用PPT功能](docs/manual/how-to-use-PPT.md)
 
-[如何邀请嘉宾](./docs/manual/how-to-invite.md)
+  - [更多](docs/manual/README.md)
 
-[客户使用须知](./docs/custom/README.md)
+* [产品基本配置](docs/settings/README.md)
+  * [产品名称设置](docs/settings/appname-config.md)
 
-[常见问题](./docs/faq/README.md)
+  * [微信分享设置](docs/settings/wechat-share-config.md)
 
-<!-- [开发者文档](开发者文档.md)
-[网站用户手册](网站用户手册.md)
+  * [更多](docs/settings/README.md)
 
-[音频直播快速体验](音频直播快速体验.md) -->
+- [客户使用须知](./docs/custom/README.md)
+
+- [常见问题](./docs/faq/README.md)
+
 
 <!--
 直播互动

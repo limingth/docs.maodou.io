@@ -1,6 +1,6 @@
 # Summary
 
-* [毛豆网](README.md)
+* [首页](README.md)
 <!-- * [开发者文档](docs/manual/开发者文档.md) -->
 * [接入指引](docs/manual/guide.md)
 
@@ -19,6 +19,11 @@
   * [如何申请直播](docs/manual/how-to-apply-live.md)
   * [如何使用PPT功能](docs/manual/how-to-use-PPT.md)
   * [如何邀请嘉宾](docs/manual/how-to-invite.md)
+
+* [产品基本配置](docs/settings/README.md)
+  * [产品名称设置](docs/settings/appname-config.md)
+  * [微信分享设置](docs/settings/wechat-share-config.md)
+  * [微信消息通知设置](docs/settings/wechat-message-config.md)
 
 * [客户使用须知](docs/custom/README.md)
 
