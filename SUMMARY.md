@@ -19,6 +19,7 @@
   * [如何申请直播](docs/manual/how-to-apply-live.md)
   * [如何使用PPT功能](docs/manual/how-to-use-PPT.md)
   * [如何邀请嘉宾](docs/manual/how-to-invite.md)
+  * [绑定微信开放平台](docs/manual/open_wechat_bind.md)
 
 * [产品基本配置](docs/settings/README.md)
   * [产品名称设置](docs/settings/appname-config.md)
