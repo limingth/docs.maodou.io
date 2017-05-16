@@ -10,3 +10,12 @@ h3 {
 h1 {
   color: #555;
 }
+
+.markdown-section blockquote {
+  border-left: 4px solid #f44;
+  color: #555;
+}
+
+img {
+  box-shadow: 1px 1px 4px 4px rgba(203,185,185,0.40);
+}

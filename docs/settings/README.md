@@ -3,3 +3,5 @@
 - [产品名称设置](./appname-config.md)
 - [微信分享设置](./wechat-share-config.md)
 - [微信消息通知设置](./wechat-message-config.md)
+- [会员设置](./vip-config.md)
+- [会员设置](./pag-page-config.md)

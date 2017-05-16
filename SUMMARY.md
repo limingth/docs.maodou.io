@@ -24,6 +24,8 @@
   * [产品名称设置](docs/settings/appname-config.md)
   * [微信分享设置](docs/settings/wechat-share-config.md)
   * [微信消息通知设置](docs/settings/wechat-message-config.md)
+  * [会员设置](docs/settings/vip-config.md)
+  * [会员设置](docs/settings/pay-page-config.md)
 
 * [客户使用须知](docs/custom/README.md)
 
