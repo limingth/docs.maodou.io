@@ -5,3 +5,4 @@
 * [专栏快速体验](./intro-column.md)
 * [轮播图功能快速体验](./intro-carousel.md)
 * [分销渠道快速体验](./intro-channel.md)
+* [语音转写快速体验](./intro-transcribe-word.md)
