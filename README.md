@@ -29,6 +29,7 @@
 
 - [常见问题](./docs/faq/README.md)
 
+- [更新日志](./docs/update/README.md)
 
 <!--
 直播互动
