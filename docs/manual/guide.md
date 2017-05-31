@@ -11,13 +11,18 @@
 - 如果需要支付功能，需申请服务号的支付认证
 
 ### 2. 微信后台配置
+
+登录服务号后台后，点击左下角的**设置**-->**公众号设置**，来设置相关域名。
+
 - 确保微信后台，“业务域名”，“JS接口安全域名”，“网页授权域名”，未被占用
 
-![](https://of6ygwuso.qnssl.com/docs/quickstart/公众号设置.png)
+![](https://of6ygwuso.qnssl.com/docs/quickstart/mp-weixin-setting.png)
 
 ![](https://of6ygwuso.qnssl.com/docs/quickstart/公众号功能设置.png)
 
 - 获取服务号的 AppID 和 AppSecret
+
+如上图所示，点击左下角的**开发**-->**基本设置**，查看公众号的 AppID 和 AppSecret。
 
 **注意：微信的AppSecret只能显示一次，重置后可能会导致相关的应用工作不正常，请妥善保存**
 
