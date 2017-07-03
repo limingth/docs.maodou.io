@@ -3,17 +3,14 @@
 # 如何使用PPT功能
 **目前PPT功能，只能在直播和直播回放中使用**
 
-### 1. 生成PPT图片
-在PPT中通过“保存为图片...”，可以将PPT保存为图片，**推荐使用16:9的PPT**
 
-![转换PPT](https://of6ygwuso.qnssl.com/docs/quickstart/转换ppt1.png)
 
-### 2. 上传PPT图片
+### 1. 上传PPT图片
 在系统后台，在新建的直播中，进入直播间
 
 ![进入直播间](https://of6ygwuso.qnssl.com/docs/quickstart/进入直播间1.png)
 
-在课前准备的步骤中，上传准备好的PPT图片
+在课前准备的步骤中，上传准备好的PPT文档
 
 ![上传ppt1](https://of6ygwuso.qnssl.com/docs/quickstart/上传ppt1.png)
 
@@ -25,7 +22,7 @@
 
 ![上传ppt3](https://of6ygwuso.qnssl.com/docs/quickstart/上传ppt3.png)
 
-### 3. 切换PPT图片
+### 2. 切换PPT图片
 切换PPT目前支持在PC后台或安卓手机端
 
 - 在PC后台切换PPT
@@ -49,7 +46,7 @@
 
 ![安卓ppt3](https://of6ygwuso.qnssl.com/docs/quickstart/安卓ppt6.png)
 
-### 4. PPT的显示
+### 3. PPT的显示
 
 - 在直播中查看PPT
 

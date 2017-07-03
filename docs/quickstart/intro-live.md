@@ -4,17 +4,13 @@
 
 ### 1. 页面登陆
 
-首先打开浏览器，在浏览器中进入[毛豆网管理员页面](https://live.maodou.io/admin/login)样式如下：
+首先打开浏览器，在浏览器中进入[毛豆网主站](https://www.maodou.io)，移至网页最下端，样式如下：
 
 **我们推荐使用Chrome浏览器，以获得更好的直播体验**，下载地址：[Chrome浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)
 
-![管理员页面](https://of6ygwuso.qnssl.com/docs/quickstart/zhibo-login.png)
+![毛豆官网](https://of6ygwuso.qnssl.com/maodouioofficialsite.png)
 
-毛豆网管理员页面网址：https://live.maodou.io/admin/login
-
-用户名：申请时留的邮箱　(hello@maodou.io)
-
-密码：申请时留的电话　(13522078313)
+输入姓名和手机号，点击“我要开直播”，即可快速体验毛豆网直播功能
 
 ### 2. 新建直播
 
@@ -22,7 +18,7 @@
 
 登陆成功后，选择新增选项，进入新增页面，点击直播按钮：
 
-![新建界面](https://of6ygwuso.qnssl.com/docs/quickstart/qs_新建直播.png)
+![新建界面](https://of6ygwuso.qnssl.com/intro-live-1.png)
 
 进人音频直播设置界面进行设置。设置完成后的图片如下：
 
@@ -34,7 +30,7 @@
 
 在新增直播后，进入内容管理直播列表，将创建的直播上架：
 
-![上架界面](https://of6ygwuso.qnssl.com/docs/quickstart/qs_直播上架.png)
+![上架界面](https://of6ygwuso.qnssl.com/intro-live-3.png)
 
 点击上架按钮，把新增直播项目放到毛豆网直播平台上，毛豆网直播前台界面如下，可以看到新建的直播：
 
@@ -59,7 +55,7 @@
 
 在课前准备后，进入直播界面，界面如下：
 
-![直播界面](https://of6ygwuso.qnssl.com/docs/quickstart/qs_直播后台1.png)
+![直播界面](https://of6ygwuso.qnssl.com/intro-live-4.png)
 
 点击开始直播按钮，即可推流直播，有三个状态需要注意
 - 实时码率显示当前推流的码率

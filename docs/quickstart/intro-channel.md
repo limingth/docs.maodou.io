@@ -6,11 +6,13 @@
 
 ### 1. 页面登陆
 
-首先打开[浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)，在浏览器中进入[毛豆网管理员页面](https://live.maodou.io/admin/login)样式如下：
+首先打开[浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)，在浏览器中进入[毛豆网主站](https://www.maodou.io)，移至网页最下端，如下所示：
 
-![管理员页面](https://of6ygwuso.qnssl.com/docs/quickstart/zhibo-login.png)
 
-毛豆网管理员页面网址：https://live.maodou.io/admin/login
+
+![毛豆官网](https://of6ygwuso.qnssl.com/maodouioofficialsite.png)
+
+输入姓名和手机号，点击 我要开直播，即可快速体验毛豆网音视频录播功能
 
 ### 2. 新建渠道
 

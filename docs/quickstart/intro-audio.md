@@ -6,15 +6,12 @@
 
 ### 1. 页面登陆
 
-首先打开[浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)，在浏览器中进入[毛豆网管理员页面](https://live.maodou.io/admin/login)样式如下：
+首先打开[浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)，在浏览器中进入[毛豆网主站](https://www.maodou.io)移至网页最下端，如下所示：
 
-![管理员页面](https://of6ygwuso.qnssl.com/docs/quickstart/zhibo-login.png)
+![毛豆官网](https://of6ygwuso.qnssl.com/maodouioofficialsite.png)
 
-毛豆网管理员页面网址：https://live.maodou.io/admin/login
+输入姓名和手机号，点击 我要开直播，即可快速体验毛豆网音视频录播功能
 
-用户名：申请时留的邮箱　(hello@maodou.io)
-
-密码：申请时留的电话　(13522078313)
 
 ### 2. 新建音视频
 
@@ -24,29 +21,41 @@
 
 **提示：音频上传和视频上传步骤一样，下面以音频为例**
 
-![新建界面](https://of6ygwuso.qnssl.com/docs/quickstart/qs_new_audio.png)
+![视频体验](https://of6ygwuso.qnssl.com/intro-audio-1.png)
 
 进人音频直播设置界面进行设置。设置完成后的图片如下：
 
-![新增音频](https://of6ygwuso.qnssl.com/docs/quickstart/qs_add_audio_info.png)
+![新增音频](https://of6ygwuso.qnssl.com/intro-audio-2.png)
 
 设置成功后点击下面的发布按钮。
+
+##### 剪辑
+
+发布成功后，可以对音频进行剪辑
+
+![剪辑音频](https://of6ygwuso.qnssl.com/intro-audio-3.png)
+
+
+##### 转写与添加PPT
+剪辑完成后，毛豆网可以为音频自动生成字幕，也可以上传ppt
+
+![转写音频](https://of6ygwuso.qnssl.com/intro-audio-4.png)
 
 ##### 上架
 
 发布成功后，页面跳转到音频列表，将创建的音频上架：
 
-![上架界面](https://of6ygwuso.qnssl.com/docs/quickstart/qs_audio_show.png)
+![上架界面](https://of6ygwuso.qnssl.com/intro-audio-5.png)
 
 上架后，内容将会在前台显示
 
-![音频上架](https://of6ygwuso.qnssl.com/docs/quickstart/qs_audio_home.png)
+![音频上架](https://of6ygwuso.qnssl.com/intro-audio-6.png)
 
 ### 3. 前台展示
 
 点击进入后，音频会自动播放，界面如下：
 
-![音频上架](https://of6ygwuso.qnssl.com/docs/quickstart/qs_audio_play.png)
+![音频上架](https://of6ygwuso.qnssl.com/intro-audio-7.png)
 
 ### 4. 注意事项
 

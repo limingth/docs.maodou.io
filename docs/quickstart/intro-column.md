@@ -6,11 +6,9 @@
 
 ### 1. 页面登陆
 
-首先打开[浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)，在浏览器中进入[毛豆网管理员页面](https://live.maodou.io/admin/login),如下所示：
+首先打开[浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)，在浏览器中进入[毛豆网主站](https://www.maodou.io)，移至网页最下端，如下所示：
 
-![管理员页面](https://of6ygwuso.qnssl.com/docs/quickstart/zhibo-login.png)
-
-毛豆网管理员页面网址：https://live.maodou.io/admin/login
+![毛豆官网](https://of6ygwuso.qnssl.com/maodouioofficialsite.png)
 
 ### 2. 新建专栏
 
@@ -18,7 +16,7 @@
 
 登陆成功后，选择新增选项，进入新增页面，点击**专栏**按钮：
 
-![新建界面](https://of6ygwuso.qnssl.com/docs/quickstart/qs_column_new.png)
+![新建界面](https://of6ygwuso.qnssl.com/intro-column-1.png)
 
 进人新增界面进行设置。如图所示：
 

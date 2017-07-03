@@ -6,11 +6,11 @@
 
 ### 1. 页面登陆
 
-首先打开[浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)，在浏览器中进入[毛豆网管理员页面](https://live.maodou.io/admin/login),如下所示：
+首先打开[浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)，在浏览器中进入[毛豆网主站](https://www.maodou.io)，移至网页最下端，如下所示：
 
-![管理员页面](https://of6ygwuso.qnssl.com/docs/quickstart/zhibo-login.png)
+![管理员页面](https://of6ygwuso.qnssl.com/maodouioofficialsite.png)
 
-毛豆网管理员页面网址：https://live.maodou.io/admin/login
+输入姓名和手机号，点击 我要开直播，即可快速体验毛豆网音视频录播功能
 
 ### 2. 新建轮播图
 
@@ -18,7 +18,7 @@
 
 登陆成功后，选择新增选项，进入新增页面，点击**轮播图**按钮：
 
-![新建界面](https://of6ygwuso.qnssl.com/docs/quickstart/qs_carousel_new.png)
+![新建界面](https://of6ygwuso.qnssl.com/intro-carousel.png)
 
 进人新增界面进行设置。如图所示：
 
