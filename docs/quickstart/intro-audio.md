@@ -47,7 +47,7 @@
 
 ![上架界面](https://of6ygwuso.qnssl.com/intro-audio-5.png)
 
-上架后，内容将会在前台显示
+上架后，内容将会在前台显示。
 
 ![音频上架](https://of6ygwuso.qnssl.com/intro-audio-6.png)
 
