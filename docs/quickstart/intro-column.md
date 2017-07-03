@@ -20,7 +20,7 @@
 
 进人新增界面进行设置。如图所示：
 
-![新增专栏](https://of6ygwuso.qnssl.com/docs/quickstart/qs_column_add.png)
+![新增专栏](https://of6ygwuso.qnssl.com/intro-column-2.png)
 
 设置成功后点击下面的发布按钮。
 
@@ -28,23 +28,26 @@
 
 发布成功后，页面跳转到专栏列表，默认状态是下架，将创建的专栏上架。目前专栏里的内容还是空的，点击**管理**按钮，进入添加内容页面：
 
-![上架界面](https://of6ygwuso.qnssl.com/docs/quickstart/qs_column_list.png)
+![上架界面](https://of6ygwuso.qnssl.com/intro-column-3.png)
 
-点击上面的不同按钮，可以选择不同的内容形式，这里我们添加了一个直播，一个录播视频，如下图所示：
+点击“管理”，可以为专栏添加内容
 
-![内容添加](https://of6ygwuso.qnssl.com/docs/quickstart/qs_column_content_add.png)
+![内容添加](https://of6ygwuso.qnssl.com/intro-column-4.png)
+
+可以选择现有的“直播”，“音频”，以及“视频”添加进专栏，如下图所示：
+![内容添加2](https://of6ygwuso.qnssl.com/intro-column-5.png)
 
 ### 3. 专栏展示
 
 现在打开前台首页展示的专栏内容，可以看到更新情况，价格等信息:
 
-![专栏展示](https://of6ygwuso.qnssl.com/docs/quickstart/qs_column_show.png)
+![专栏展示](https://of6ygwuso.qnssl.com/intro-column-6.png)
 
 点击进入详情页面，可以看到详情描述和内容列表，如果已经购买，则可以点击进入不同的内容，进行收听：
 
-![专栏详情](https://of6ygwuso.qnssl.com/docs/quickstart/qs_column_des1.png)
+![专栏详情](https://of6ygwuso.qnssl.com/intro-column-7.png)
 
-![专栏详情](https://of6ygwuso.qnssl.com/docs/quickstart/qs_column_des2.png)
+![专栏详情](https://of6ygwuso.qnssl.com/intro-column-8.png)
 
 ### 4. 专栏排序和筛选
 
