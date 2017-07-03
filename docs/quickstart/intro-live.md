@@ -22,7 +22,7 @@
 
 进人音频直播设置界面进行设置。设置完成后的图片如下：
 
-![新增直播](https://of6ygwuso.qnssl.com/docs/quickstart/qs_填写直播信息2.png)
+![新增直播](https://of6ygwuso.qnssl.com/intro-live-8.png)
 
 设置成功后点发布。
 
@@ -34,7 +34,7 @@
 
 点击上架按钮，把新增直播项目放到毛豆网直播平台上，毛豆网直播前台界面如下，可以看到新建的直播：
 
-![直播上架](https://of6ygwuso.qnssl.com/docs/quickstart/qs_直播前端首页2.png)
+![直播上架](https://of6ygwuso.qnssl.com/intro-live-9.png)
 
 ### 3. 准备直播
 
@@ -66,7 +66,7 @@
 
 此时，前端对应的页面如下，此时可以听到直播声音：
 
-![直播平台界面](https://of6ygwuso.qnssl.com/docs/quickstart/qs_直播前台.png)
+![直播平台界面](https://of6ygwuso.qnssl.com/intro-live-10.png)
 
 ### 5. 结束直播
 
