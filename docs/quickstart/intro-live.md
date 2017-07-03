@@ -86,9 +86,9 @@
 
 在此可以对您录制的语音进行剪辑，剪辑界面如下:
 
-![剪辑](https://of6ygwuso.qnssl.com/docs/quickstart/qs_剪辑.png)
+![剪辑](https://of6ygwuso.qnssl.com/intro-live-7.png)
 
-若剪辑完成后点击"剪辑完毕，开始语音转写"按钮，进入语音转写界面。
+若剪辑完成后点击"下一步"按钮，进入语音转写界面。
 
 ##### 语音转写
 
