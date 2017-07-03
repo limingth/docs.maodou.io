@@ -62,7 +62,7 @@
 - 绿色进度条为实时音量
 - 暂停直播按钮，可以暂停当前直播
 
-![直播状态](https://of6ygwuso.qnssl.com/docs/quickstart/qs_直播状态.png)
+![直播状态](https://of6ygwuso.qnssl.com/intro-live-5-1.png)
 
 此时，前端对应的页面如下，此时可以听到直播声音：
 
@@ -72,7 +72,7 @@
 
 暂停直播后，可以点击 “直播结束，保存成点播” 按钮
 
-![直播平台界面](https://of6ygwuso.qnssl.com/docs/quickstart/qs_直播暂停.png)
+![直播平台界面](https://of6ygwuso.qnssl.com/intro-live-6.png)
 
 ##### 转码
 
