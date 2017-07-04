@@ -8,7 +8,7 @@
 
 当您结束直播后，会经历**转码** -> **剪辑** -> **语音转写**等流程，其中转码是系统自动完成的，剪辑功能也可以选择跳过。如下面是语音转写的界面：
 
-![语音转写](https://of6ygwuso.qnssl.com/docs/quickstart/qs_convert_word.png)
+![语音转写](https://of6ygwuso.qnssl.com/intro-tran-word.png)
 
 步骤：
 
