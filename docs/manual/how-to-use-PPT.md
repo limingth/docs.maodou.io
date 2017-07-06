@@ -8,26 +8,28 @@
 ### 1. 上传PPT图片
 在系统后台，在新建的直播中，进入直播间
 
-![进入直播间](https://of6ygwuso.qnssl.com/docs/quickstart/进入直播间1.png)
+![进入直播间](https://of6ygwuso.qnssl.com/how-to-use-ppt.png)
 
 在课前准备的步骤中，上传准备好的PPT文档
 
-![上传ppt1](https://of6ygwuso.qnssl.com/docs/quickstart/上传ppt1.png)
+![上传ppt1](https://of6ygwuso.qnssl.com/how-to-use-ppt-2.png)
 
 可以调整上传的PPT，准备完毕，点击“下一步”进入“直播”
 
-![上传ppt2](https://of6ygwuso.qnssl.com/docs/quickstart/上传ppt2.png)
+![上传ppt2](https://of6ygwuso.qnssl.com/how-to-use-ppt-3.png)
 
 在直播后台页面，如果想继续调整PPT，可以通过“上一步”，退回“课前准备”页面
 
-![上传ppt3](https://of6ygwuso.qnssl.com/docs/quickstart/上传ppt3.png)
+![上传ppt3](https://of6ygwuso.qnssl.com/how-to-use-ppt-4.png)
 
 ### 2. 切换PPT图片
 切换PPT目前支持在PC后台或安卓手机端
 
 - 在PC后台切换PPT
 
-![ppt翻页](https://of6ygwuso.qnssl.com/docs/quickstart/ppt翻页1.png)
+  鼠标点击或键盘左右键切换
+
+![ppt翻页](https://of6ygwuso.qnssl.com/how-to-use-ppt-5.png)
 
 - 在安卓手机端切换PPT
 
