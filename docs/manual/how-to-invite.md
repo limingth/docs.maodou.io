@@ -19,7 +19,7 @@
 
 进入课程，完成安卓手机端连麦
 
-![](https://of6ygwuso.qnssl.com/docs/quickstart/手机端连麦.png)
+![](https://of6ygwuso.qnssl.com/docs/quickstart/invite-new.png)
 
 
 
