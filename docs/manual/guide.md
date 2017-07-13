@@ -2,23 +2,26 @@
 
 # 接入指引
 
+有哪些公众号可以接入，那些不行？
+- 认证过的服务号，媒体号，政府号可以接入
+- 个人号，订阅号，未认证服务号暂时不能接入
+
+
+
 ### 1. 准备工作
+
 - 需要申请一个认证的微信服务号
   - [申请流程](https://mp.weixin.qq.com/)
 
 ![](https://of6ygwuso.qnssl.com/docs/quickstart/认证服务号.png)
 
 - 如果需要支付功能，需申请服务号的支付认证
+  - 主要需要AppID，AppSecret，商户号，以及支付秘钥
+
 
 ### 2. 微信后台配置
 
-登录服务号后台后，点击左下角的**设置**-->**公众号设置**，来设置相关域名。
-
-- 确保微信后台，“业务域名”，“JS接口安全域名”，“网页授权域名”，未被占用
-
-![](https://of6ygwuso.qnssl.com/docs/quickstart/mp-weixin-setting.png)
-
-![](https://of6ygwuso.qnssl.com/docs/quickstart/公众号功能设置.png)
+登录服务号后台后，点击左下角的**设置**-->**公众号设置**—>**功能设置**，来设置相关域名。
 
 - 获取服务号的 AppID 和 AppSecret
 
@@ -34,17 +37,24 @@
 
 ![](https://of6ygwuso.qnssl.com/docs/quickstart/微信支付1.png)
 
-登录微信支付商户平台
+登录微信支付商户平台，会需要首先下载安装证书
 
 ![](https://of6ygwuso.qnssl.com/docs/quickstart/微信商户平台登录.png)
 
-在API安全中，设置秘钥(32位)，并保存
+在**账户中心**，在**API安全**中，下载安装证书，即会显示安装秘钥(手动设置32位支付秘钥)，并保存
 
 ![](https://of6ygwuso.qnssl.com/docs/quickstart/微信商户平台支付秘钥.png)
 
+- 确保微信后台，“业务域名”，“JS接口安全域名”，“网页授权域名”，未被占用
+
+![](https://of6ygwuso.qnssl.com/docs/quickstart/mp-weixin-setting1.png)
+
+![](https://of6ygwuso.qnssl.com/docs/quickstart/公众号功能设置.png)
+
+
 ### 3. 电脑端扫码登录
 
-- 如果需要电脑端扫码登录，需要注册 [微信开放平台](open.weixin.qq.com) 并提供开放平台账号密码
+- 如果需要电脑端扫码登录，需要注册 [微信开放平台](https://open.weixin.qq.com) 并提供开放平台账号密码
 
 详见：-> [绑定微信开放平台](./open_wechat_bind.md)
 

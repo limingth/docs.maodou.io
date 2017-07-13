@@ -5,16 +5,18 @@
 
 
 
-### 1. 上传PPT图片
+### 1. 上传PPT文档
 在系统后台，在新建的直播中，进入直播间
 
 ![进入直播间](https://of6ygwuso.qnssl.com/how-to-use-ppt.png)
 
-在课前准备的步骤中，上传准备好的PPT文档
+在课前准备的步骤中，上传准备好的PDF格式的PPT文档
 
 ![上传ppt1](https://of6ygwuso.qnssl.com/how-to-use-ppt-2.png)
 
-可以调整上传的PPT，准备完毕，点击“下一步”进入“直播”
+如果PPT有调整，可以调整后再次上传（新上传的PPT会覆盖旧版本）。
+
+准备完毕，点击“下一步”进入“直播”
 
 ![上传ppt2](https://of6ygwuso.qnssl.com/how-to-use-ppt-3.png)
 
@@ -36,9 +38,9 @@
 安卓手机端切换PPT，需要被邀请为本门课程的嘉宾
 (参见[如何邀请直播嘉宾](./how-to-invite.md))
 
-在“我的”页面，进入“我要直播”
+在“我的”页面，进入“参与直播”
 
-![安卓ppt1](https://of6ygwuso.qnssl.com/docs/quickstart/安卓ppt4.png)
+![安卓ppt1](https://of6ygwuso.qnssl.com/docs/quickstart/how-to-invite.jpeg)
 
 如果是被邀请的嘉宾，可以在“我要直播”页面内看到被邀请的课程
 

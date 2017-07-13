@@ -4,7 +4,7 @@
 
 ### 1. 页面登陆
 
-首先打开浏览器，在浏览器中进入[毛豆网主站](https://www.maodou.io)，移至网页最下端，样式如下：
+首先打开浏览器，在浏览器中进入[毛豆网官网](https://www.maodou.io)，移至网页最下端，样式如下：
 
 **我们推荐使用Chrome浏览器，以获得更好的直播体验**，下载地址：[Chrome浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)
 
@@ -24,7 +24,9 @@
 
 ![新增直播](https://of6ygwuso.qnssl.com/intro-live-8.png)
 
-设置成功后点发布。
+设置成功后点发布。如果需要更改，进入内容管理列表页，点击**更多功能**—>**编辑**
+![编辑直播](https://of6ygwuso.qnssl.com/docs/quickstart/intro-live-more.png)
+
 
 ##### 直播上架
 
@@ -41,6 +43,8 @@
 ##### 课前准备
 
 后台进入直播间，整个直播流程分为5步
+
+（加一个 点击 进入直播间的图）
 
 课前准备中需要有两个功能:(1)上传ppt，(2)邀请嘉宾。  
 
