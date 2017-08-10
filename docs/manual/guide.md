@@ -21,11 +21,11 @@
 
 ### 2. 微信后台配置
 
-登录服务号后台后，点击左下角的**设置**-->**公众号设置**—>**功能设置**，来设置相关域名。
-
 - 获取服务号的 AppID 和 AppSecret
 
 如上图所示，点击左下角的**开发**-->**基本设置**，查看公众号的 AppID 和 AppSecret。
+
+![](https://of6ygwuso.qnssl.com/docs/quickstart/find_AppID.png)
 
 **注意：微信的AppSecret只能显示一次，重置后可能会导致相关的应用工作不正常，请妥善保存**
 
