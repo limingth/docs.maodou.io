@@ -18,6 +18,7 @@
   * [如何使用PPT功能](docs/manual/how-to-use-PPT.md)
   * [如何前台邀请嘉宾](docs/manual/how-to-invite.md)
   * [如何管理员设置嘉宾](docs/manual/how-to-owner-invite.md)
+  * [如何更改owner昵称](docs/manual/how-to-change-owner-nickname.md)
   * [绑定微信开放平台](docs/manual/open_wechat_bind.md)
   * [授权支付目录设置](docs/settings/shou-quan-zhi-fu-mu-lu-she-zhi.md)
 * [产品基本配置](docs/settings/README.md)
@@ -29,4 +30,3 @@
 * [客户使用须知](docs/custom/README.md)
 * [常见问题](docs/faq/README.md)
 * [更新日志](docs/update/README.md)
-
