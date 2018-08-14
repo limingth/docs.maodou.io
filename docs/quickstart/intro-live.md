@@ -2,7 +2,7 @@
 
 # 音频直播快速体验
 
-**我们推荐使用Chrome浏览器，以获得更好的直播体验**，下载地址：[Chrome浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)
+**我们推荐使用Chrome浏览器，以获得更好的直播体验**，下载地址：[Chrome浏览器](https://maodou.io/download)
 
 ### 1. 新建直播
 
