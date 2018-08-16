@@ -30,7 +30,7 @@
 
 ![](https://of6ygwuso.qnssl.com/docs/quickstart/intro-live5.png)
 
-### 2. 准备直播（如果需要需要）
+### 2. 准备直播（如果需要ppt）
 
 课前准备中需要有两个功能:(1)上传ppt，(2)邀请嘉宾。  
 

@@ -10,7 +10,7 @@
 
 
 
-![毛豆官网](https://of6ygwuso.qnssl.com/maodouioofficialsite.png)
+![毛豆官网](https://of6ygwuso.qnssl.com/demo-howtobegin.png)
 
 输入姓名和手机号，点击 我要开直播，即可快速体验毛豆网音视频录播功能
 

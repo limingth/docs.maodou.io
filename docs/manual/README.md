@@ -5,6 +5,7 @@
 * [如何邀请嘉宾](./how-to-invite.md)
 * [绑定微信开放平台](./open_wechat_bind.md)
 * [授权支付目录设置](/docs/settings/shou-quan-zhi-fu-mu-lu-she-zhi.md)
+* [如何安装插件](./intro-pluginInstall.md)
 
 
 

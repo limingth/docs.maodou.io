@@ -8,7 +8,7 @@
 
   * [音频直播快速体验](docs/quickstart/intro-live.md)
 
-  * [音视频录播快速体验](docs/quickstart/intro-audio.md)
+  * [音、视频上传快速体验](docs/quickstart/intro-audio.md)
 
   * [更多](docs/quickstart/README.md)
 

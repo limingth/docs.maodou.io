@@ -2,13 +2,13 @@
 
 # 屏幕共享插件的安装
 
->**注意：屏幕共享功能只能在 Chrome 浏览器上使用**，Chrome 浏览器下载地址：[Chrome浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)
+>**注意：屏幕共享功能只能在 Chrome 浏览器上使用**，Chrome 浏览器下载地址：[Chrome浏览器](http://maodou.io/download)
 
 ## 离线安装
 
-1. 下载毛豆直播插件 [点击下载](https://global.cdn.maodou.io/%E6%AF%9B%E8%B1%86%E7%9B%B4%E6%92%AD%E6%8F%92%E4%BB%B6.crx)
+1. 下载毛豆直播插件 [点击进入下载页面](https://maodou.io/download)
 
-2. 进入 Chrome 浏览器的扩展程序管理页面 [点击进入](chrome://extensions/)
+2. 进入 Chrome 浏览器的扩展程序管理页面:chrome://extensions/
 
 3. 开启开发者模式（如下图）
 

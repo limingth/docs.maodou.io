@@ -1,6 +1,6 @@
 [返回首页](../../README.md)
 
-# 音视频录播快速体验
+# 音、视频上传-快速体验
 
 > 音视频录播功能提供了音频文件和视频文件的本地上传，弥补了客户只能在线直播的不足，可以更好地，多方位地服务目标用户。
 
@@ -8,9 +8,10 @@
 
 首先打开[浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)，在浏览器中进入[毛豆网官网](https://www.maodou.io)移至网页最下端，如下所示：
 
-![毛豆官网](https://of6ygwuso.qnssl.com/maodouioofficialsite.png)
+![毛豆官网](https://of6ygwuso.qnssl.com/demo-howtobegin.png)
 
-输入姓名和手机号，点击 我要开直播，即可快速体验毛豆网音视频录播功能
+输入姓名和手机号、邮箱，点击 我要开直播，即可快速体验毛豆网音视频上传功能
+![](https://of6ygwuso.qnssl.com/demo-apply.png)
 
 
 ### 2. 新建音视频
