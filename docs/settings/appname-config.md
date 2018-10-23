@@ -10,11 +10,11 @@
 
 首页显示：
 
-![1](https://of6ygwuso.qnssl.com/docs/settings/settings_home_title.png)
+![1](https://docssl.cdn.maodou.io/docs/settings/settings_home_title.png)
 
 后台显示：
 
-![2](https://of6ygwuso.qnssl.com/docs/settings/settings_home_show.png)
+![2](https://docssl.cdn.maodou.io/docs/settings/settings_home_show.png)
 
 ### 配置
 
@@ -22,10 +22,10 @@
 
 **注意：应用的logo目前只在后台左上角显示**
 
-![3](https://of6ygwuso.qnssl.com/docs/settings/settings_home_show1.png)
+![3](https://docssl.cdn.maodou.io/docs/settings/settings_home_show1.png)
 
 来到首页，我们可以看到应用的名称已经更新：
 
-![4](https://of6ygwuso.qnssl.com/docs/settings/settings_home_title1.png)
+![4](https://docssl.cdn.maodou.io/docs/settings/settings_home_title1.png)
 
 [返回首页](../../README.md)

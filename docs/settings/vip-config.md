@@ -10,22 +10,22 @@
 
 后台的默认显示：
 
-![1](https://of6ygwuso.qnssl.com/docs/settings/settings_vip_default.png)
+![1](https://docssl.cdn.maodou.io/docs/settings/settings_vip_default.png)
 
 对于普通用户在前台的显示：
 
-![2](https://of6ygwuso.qnssl.com/docs/settings/settings_vip_show_default.png)
+![2](https://docssl.cdn.maodou.io/docs/settings/settings_vip_show_default.png)
 
-![2](https://of6ygwuso.qnssl.com/docs/settings/settings_vip_price_default.png)
+![2](https://docssl.cdn.maodou.io/docs/settings/settings_vip_price_default.png)
 
 ### 配置
 
 登录后台后，点击左下方的**设置**按钮，找到**会员设置**这一选项，如下图，我们修改一些内容，**点击确定**以保存：
 
-![3](https://of6ygwuso.qnssl.com/docs/settings/settings_vip.png)
+![3](https://docssl.cdn.maodou.io/docs/settings/settings_vip.png)
 
 对于普通用户，显示的界面如下：
 
-![4](https://of6ygwuso.qnssl.com/docs/settings/settings_vip_price.png)
+![4](https://docssl.cdn.maodou.io/docs/settings/settings_vip_price.png)
 
 [返回首页](../../README.md)

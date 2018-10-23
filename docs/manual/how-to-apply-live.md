@@ -8,13 +8,13 @@
 
 **建议**：请尽量填写真实信息，以便后台管理员更快地审核通过。
 
-![申请](https://of6ygwuso.qnssl.com/docs/quickstart/qs_apply_home.png)
+![申请](https://docssl.cdn.maodou.io/docs/quickstart/qs_apply_home.png)
 
-![申请](https://of6ygwuso.qnssl.com/docs/quickstart/qs_apply_profile.png)
+![申请](https://docssl.cdn.maodou.io/docs/quickstart/qs_apply_profile.png)
 
-![申请](https://of6ygwuso.qnssl.com/docs/quickstart/qs_apply_info.png)
+![申请](https://docssl.cdn.maodou.io/docs/quickstart/qs_apply_info.png)
 
-![申请](https://of6ygwuso.qnssl.com/docs/quickstart/qs_apply_wait.png)
+![申请](https://docssl.cdn.maodou.io/docs/quickstart/qs_apply_wait.png)
 
 申请成功后，我们会发送邮件到刚才填写的邮箱地址，按照里面的步骤，就能够登录应用后台，赶快去体验吧！
 

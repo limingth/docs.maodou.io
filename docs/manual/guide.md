@@ -13,7 +13,7 @@
 - 需要申请一个认证的微信服务号
   - [申请流程](https://mp.weixin.qq.com/)
 
-![](https://of6ygwuso.qnssl.com/docs/quickstart/认证服务号.png)
+![](https://docssl.cdn.maodou.io/docs/quickstart/认证服务号.png)
 
 - 如果需要支付功能，需申请服务号的支付认证
   - 主要需要AppID，AppSecret，商户号，以及支付秘钥
@@ -25,31 +25,31 @@
 
 如上图所示，点击左下角的**开发**-->**基本设置**，查看公众号的 AppID 和 AppSecret。
 
-![](https://of6ygwuso.qnssl.com/docs/quickstart/find_appid_2.png)
+![](https://docssl.cdn.maodou.io/docs/quickstart/find_appid_2.png)
 
 **注意：微信的AppSecret只能显示一次，重置后可能会导致相关的应用工作不正常，请妥善保存**
 
-![](https://of6ygwuso.qnssl.com/docs/quickstart/基本配置appid.png)
+![](https://docssl.cdn.maodou.io/docs/quickstart/基本配置appid.png)
 
 - 微信支付配置
 
 在微信支付中，获取微信商户号(纯数字)，跳转到微信支付商户平台
 
-![](https://of6ygwuso.qnssl.com/docs/quickstart/微信支付1.png)
+![](https://docssl.cdn.maodou.io/docs/quickstart/微信支付1.png)
 
 登录微信支付商户平台，会需要首先下载安装证书
 
-![](https://of6ygwuso.qnssl.com/docs/quickstart/微信商户平台登录.png)
+![](https://docssl.cdn.maodou.io/docs/quickstart/微信商户平台登录.png)
 
 在**账户中心**，在**API安全**中，下载安装证书，即会显示安装秘钥(手动设置32位支付秘钥)，并保存
 
-![](https://of6ygwuso.qnssl.com/docs/quickstart/微信商户平台支付秘钥.png)
+![](https://docssl.cdn.maodou.io/docs/quickstart/微信商户平台支付秘钥.png)
 
 - 确保微信后台，“业务域名”，“JS接口安全域名”，“网页授权域名”，未被占用
 
-![](https://of6ygwuso.qnssl.com/docs/quickstart/mp-weixin-setting1.png)
+![](https://docssl.cdn.maodou.io/docs/quickstart/mp-weixin-setting1.png)
 
-![](https://of6ygwuso.qnssl.com/docs/quickstart/公众号功能设置.png)
+![](https://docssl.cdn.maodou.io/docs/quickstart/公众号功能设置.png)
 
 
 ### 3. 电脑端扫码登录

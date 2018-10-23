@@ -8,7 +8,7 @@
 
 首先打开[浏览器](http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html)，在浏览器中进入[毛豆网官网](https://www.maodou.io)，如下所示：
 
-![](https://of6ygwuso.qnssl.com/demo-howtobegin.png)
+![](https://docssl.cdn.maodou.io/demo-howtobegin.png)
 
 输入姓名和手机号，点击 我要开直播，即可快速体验毛豆网音视频录播功能
 
@@ -18,7 +18,7 @@
 
 登陆成功后，选择新增选项，进入新增页面，点击**轮播图**按钮：
 
-![新建界面](https://of6ygwuso.qnssl.com/intro-carousel.png)
+![新建界面](https://docssl.cdn.maodou.io/intro-carousel.png)
 
 进人新增界面进行设置。如图所示：
 
@@ -31,7 +31,7 @@
 - 外部链接 选择后，下面的输入链接可以输入一个网站URL，用于链接到你所希望的网站地址
 - 无链接 只显示轮播图，不能点击
 
-![新增轮播图](https://of6ygwuso.qnssl.com/docs/quickstart/qs_carousel_add.png)
+![新增轮播图](https://docssl.cdn.maodou.io/docs/quickstart/qs_carousel_add.png)
 
 设置成功后点击下面的发布按钮。
 
@@ -39,24 +39,24 @@
 
 发布成功后，页面跳转到轮播图列表，默认状态是已下架，将创建的轮播图上架：
 
-![上架界面](https://of6ygwuso.qnssl.com/docs/quickstart/qs_carousel_list.png)
+![上架界面](https://docssl.cdn.maodou.io/docs/quickstart/qs_carousel_list.png)
 
 上架后，内容将会在前台显示，点击后，会跳转到相应的链接，如下：
 
-![前台展示](https://of6ygwuso.qnssl.com/docs/quickstart/qs_carousel_show.png)
+![前台展示](https://docssl.cdn.maodou.io/docs/quickstart/qs_carousel_show.png)
 
 ### 3. 轮播图编辑
 
 点击右侧的更多按钮，选择编辑以对轮播图进行编辑修改（必须先把轮播图设置为下架）:
 
-![编辑](https://of6ygwuso.qnssl.com/docs/quickstart/qs_carousel_list1.png)
+![编辑](https://docssl.cdn.maodou.io/docs/quickstart/qs_carousel_list1.png)
 
 如图，这里我们加上图片标题，用于展示文字描述：
 
-![编辑](https://of6ygwuso.qnssl.com/docs/quickstart/qs_carousel_edit.png)
+![编辑](https://docssl.cdn.maodou.io/docs/quickstart/qs_carousel_edit.png)
 
 保存，并且再次上架，可以在前台看到，轮播图标题显示出来了：
 
-![编辑](https://of6ygwuso.qnssl.com/docs/quickstart/qs_carousel_show1.png)
+![编辑](https://docssl.cdn.maodou.io/docs/quickstart/qs_carousel_show1.png)
 
 [返回首页](../../README.md)
