@@ -1,4 +1,5 @@
 ### 快速上手
+
 * [直播场景选择](./intro-scenes.md)
 * [关于浏览器的选择](./intro-browser.md)
 * [注册成为主讲人](./intro-register.md)
