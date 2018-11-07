@@ -34,5 +34,5 @@
 3. 点击进入直播后需要允许麦克风和摄像头接入，如图所示：
 
 ![内容管理](https://docssl.cdn.maodou.io/docs/quickstart/intro-liveVideo2.png)
-
+v
 [返回首页](../../README.md)

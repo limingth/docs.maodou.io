@@ -15,7 +15,15 @@ h1 {
   border-left: 4px solid #f44;
   color: #555;
 }
+.red{
+  color: #f44;
+}
 
 img {
   box-shadow: 1px 1px 4px 4px rgba(203,185,185,0.40);
+}
+
+.qrcode{
+  width: 100px;
+  height: 100px;
 }

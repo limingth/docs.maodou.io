@@ -5,6 +5,9 @@
 * [产品特色与功能](./docs/quickstart/features.md)
 
 * [快速上手](docs/quickstart/README.md)
+  * [直播场景选择](docs/quickstart/intro-scenes.md)
+  
+  * [关于浏览器的选择](docs/quickstart/intro-browser.md)
 
   * [音频直播快速体验](docs/quickstart/intro-live.md)
 
