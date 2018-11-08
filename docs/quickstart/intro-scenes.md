@@ -7,7 +7,7 @@
 
 * [从慕课视角看人工智能教育](https://cedumedia.maodou.io/course/SjhLNpLaRZaYio4W9)
 
-![]() 
+
 <img class="qrcode"  width=300px height=300px  src="https://yosemitessl.cdn.maodou.io/images/scenes/cedumedia01.png" > 
 
 ###视频直播
