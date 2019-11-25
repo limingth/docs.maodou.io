@@ -31,3 +31,5 @@ book.mobi
 
 .vscode
 .DS_Store
+
+*.pdf
