@@ -1,8 +1,6 @@
 docker rm -f maodou-docs
 docker	run \
-        -e VIRTUAL_HOST=docs.maodou.io \
-        -e LETSENCRYPT_HOST=docs.maodou.io \
-        -e LETSENCRYPT_EMAIL=dev@maodou.io \
+        -e VIRTUAL_HOST=docs.maodou.io,docs.maodouio.com \
 	--name maodou-docs \
 	-d \
 	-v "$PWD:/gitbook" \
