@@ -8,7 +8,7 @@
 
 当您结束直播后，会经历**转码** -> **剪辑** -> **语音转写**等流程，其中转码是系统自动完成的，剪辑功能也可以选择跳过。如下面是语音转写的界面：
 
-![语音转写](https://docssl.cdn.maodou.io/intro-tran-word.png)
+![语音转写](https://docssl.cdn.maodouio.com/intro-tran-word.png)
 
 步骤：
 
@@ -22,23 +22,23 @@
 
 修改错误的文字：
 
-![语音转写](https://docssl.cdn.maodou.io/docs/quickstart/qs_convert_word_edit.png)
+![语音转写](https://docssl.cdn.maodouio.com/docs/quickstart/qs_convert_word_edit.png)
 
 修改后保存：
 
-![语音转写](https://docssl.cdn.maodou.io/docs/quickstart/qs_convert_word_save.png)
+![语音转写](https://docssl.cdn.maodouio.com/docs/quickstart/qs_convert_word_save.png)
 
 前台默认没有字幕：
 
-![语音转写](https://docssl.cdn.maodou.io/docs/quickstart/qs_convert_word_default.png)
+![语音转写](https://docssl.cdn.maodouio.com/docs/quickstart/qs_convert_word_default.png)
 
 显示字幕效果：
 
-![语音转写](https://docssl.cdn.maodou.io/docs/quickstart/qs_convert_word_show.png)
+![语音转写](https://docssl.cdn.maodouio.com/docs/quickstart/qs_convert_word_show.png)
 
 整段文字内容：
 
-![语音转写](https://docssl.cdn.maodou.io/docs/quickstart/qs_convert_word_text.png)
+![语音转写](https://docssl.cdn.maodouio.com/docs/quickstart/qs_convert_word_text.png)
 
 **使用过程中，如若出现问题，请及时联系我们的技术人员。**
 

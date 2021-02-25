@@ -12,7 +12,7 @@
 - 需要申请一个认证的微信服务号
   - [申请流程](https://mp.weixin.qq.com/)
 
-![](https://docssl.cdn.maodou.io/docs/quickstart/certwechat.png)
+![](https://docssl.cdn.maodouio.com/docs/quickstart/certwechat.png)
 
 - 如果需要支付功能，需申请服务号的支付认证
   - 主要需要AppID，AppSecret，商户号，以及支付秘钥
@@ -23,31 +23,31 @@
 
 如上图所示，点击左下角的**开发**-->**基本设置**，查看公众号的 AppID 和 AppSecret。
 
-![](https://docssl.cdn.maodou.io/docs/quickstart/find_appid_2.png)
+![](https://docssl.cdn.maodouio.com/docs/quickstart/find_appid_2.png)
 
 **注意：微信的AppSecret只能显示一次，重置后可能会导致相关的应用工作不正常，请妥善保存**
 
-![](https://docssl.cdn.maodou.io/docs/quickstart/cfgappid.png)
+![](https://docssl.cdn.maodouio.com/docs/quickstart/cfgappid.png)
 
 - 微信支付配置
 
 在微信支付中，获取微信商户号(纯数字)，跳转到微信支付商户平台
 
-![](https://docssl.cdn.maodou.io/docs/quickstart/wechatpay1.png)
+![](https://docssl.cdn.maodouio.com/docs/quickstart/wechatpay1.png)
 
 登录微信支付商户平台，会需要首先下载安装证书
 
-![](https://docssl.cdn.maodou.io/docs/quickstart/wechatshanghu.png)
+![](https://docssl.cdn.maodouio.com/docs/quickstart/wechatshanghu.png)
 
 在**账户中心**，在**API安全**中，下载安装证书，即会显示安装秘钥(手动设置32位支付秘钥)，并保存
 
-![](https://docssl.cdn.maodou.io/docs/quickstart/wechatpaykey.png)
+![](https://docssl.cdn.maodouio.com/docs/quickstart/wechatpaykey.png)
 
 - 确保微信后台，“业务域名”，“JS接口安全域名”，“网页授权域名”，未被占用
 
-![](https://docssl.cdn.maodou.io/docs/quickstart/mp-weixin-setting1.png)
+![](https://docssl.cdn.maodouio.com/docs/quickstart/mp-weixin-setting1.png)
 
-![](https://docssl.cdn.maodou.io/docs/quickstart/settings.png)
+![](https://docssl.cdn.maodouio.com/docs/quickstart/settings.png)
 
 ## 3. 电脑端扫码登录
 

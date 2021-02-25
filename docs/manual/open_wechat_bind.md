@@ -12,17 +12,17 @@
 
 依次点击**管理中心** -> **公众账号/小程序** -> **绑定公众账号/小程序**，进行与公众号的绑定，按照流程填写公众号的账号和密码，如下图所示：
 
-![wechat](https://docssl.cdn.maodou.io/docs/quickstart/open_wechat.jpeg)
+![wechat](https://docssl.cdn.maodouio.com/docs/quickstart/open_wechat.jpeg)
 
-![wechat](https://docssl.cdn.maodou.io/docs/quickstart/open_wechat1.jpeg)
+![wechat](https://docssl.cdn.maodouio.com/docs/quickstart/open_wechat1.jpeg)
 
 ### 创建网站应用
 
 绑定公众号后，我们需要创建一个网站应用，用于扫码登录。依次点击**管理中心** -> **网站应用** -> **创建网站应用**，其中的**应用官网**这一栏请询问我们的开发人员：
 
-![wechat](https://docssl.cdn.maodou.io/docs/quickstart/open_wechat2.jpeg)
+![wechat](https://docssl.cdn.maodouio.com/docs/quickstart/open_wechat2.jpeg)
 
-![wechat](https://docssl.cdn.maodou.io/docs/quickstart/open_wechat3.jpeg)
+![wechat](https://docssl.cdn.maodouio.com/docs/quickstart/open_wechat3.jpeg)
 
 **如果过程中有任何问题或者不懂的地方，请联系我们的开发人员。**
 

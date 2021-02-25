@@ -6,7 +6,7 @@
 
 ### 1. 三大特色功能
 
-![](https://docssl.cdn.maodou.io/docs/quickstart/feature1.png)
+![](https://docssl.cdn.maodouio.com/docs/quickstart/feature1.png)
 
 - **音频直播**
 
@@ -40,7 +40,7 @@
 
 ### 2. 九大基础功能
 
-![](https://docssl.cdn.maodou.io/docs/quickstart/feature2.png)
+![](https://docssl.cdn.maodouio.com/docs/quickstart/feature2.png)
 
 1. **内容管理**：包含对直播、音频、视频及专栏的管理，可编辑名称、作者、课程简介等，并设置收费形式、上架时间等内容。
 
@@ -62,6 +62,6 @@
 
 ### 3. 产品特色
 
-![](https://docssl.cdn.maodou.io/docs/quickstart/feature3.png)
+![](https://docssl.cdn.maodouio.com/docs/quickstart/feature3.png)
 
 [返回首页](../../README.md)

@@ -5,10 +5,10 @@
 
 #####一、ppt+音频直播直播案例
 
-* [从慕课视角看人工智能教育](https://cedumedia.maodou.io/course/SjhLNpLaRZaYio4W9)
+* [从慕课视角看人工智能教育](https://cedumedia.maodouio.com/course/SjhLNpLaRZaYio4W9)
 
 
-<img class="qrcode"  width=300px height=300px  src="https://yosemitessl.cdn.maodou.io/images/scenes/cedumedia01.png" > 
+<img class="qrcode"  width=300px height=300px  src="https://yosemitessl.cdn.maodouio.com/images/scenes/cedumedia01.png" > 
 
 ###视频直播
 
@@ -46,10 +46,10 @@ https://item.jd.com/10593179353.html
 
 <strong>3、直播案例：</strong>
 
-* [美丽世园·科技冬奥”延庆创新创业大赛启动仪式](https://qidi.maodou.io/course/nWajs5xTQhZ2khB5j)
+* [美丽世园·科技冬奥”延庆创新创业大赛启动仪式](https://qidi.maodouio.com/course/nWajs5xTQhZ2khB5j)
 
 
-<img class="qrcode"  width=300px src="https://yosemitessl.cdn.maodou.io/images/scenes/qidi01.png" > 
+<img class="qrcode"  width=300px src="https://yosemitessl.cdn.maodouio.com/images/scenes/qidi01.png" > 
 
 
 
@@ -59,10 +59,10 @@ https://item.jd.com/10593179353.html
 
 <strong>2、直播案例：</strong>
 
-* [解密儿童爵士钢琴教育](https://live.maodou.io/course/WSqQvpKmi5DgJMAiB)
+* [解密儿童爵士钢琴教育](https://live.maodouio.com/course/WSqQvpKmi5DgJMAiB)
 
 
-<img class="qrcode"  width=300px  src="https://yosemitessl.cdn.maodou.io/images/scenes/live_piano.png" >
+<img class="qrcode"  width=300px  src="https://yosemitessl.cdn.maodouio.com/images/scenes/live_piano.png" >
 
 
 
@@ -70,10 +70,10 @@ https://item.jd.com/10593179353.html
 
 <strong>1、直播案例</strong>
 
-* [Scratch打砖块](https://steam.maodou.io/course/HGWj4567fBz4rAYBa)
+* [Scratch打砖块](https://steam.maodouio.com/course/HGWj4567fBz4rAYBa)
 
 
-<img class="qrcode"  width=300px src="https://yosemitessl.cdn.maodou.io/images/scenes/steam.png" >
+<img class="qrcode"  width=300px src="https://yosemitessl.cdn.maodouio.com/images/scenes/steam.png" >
 
 
 
@@ -81,27 +81,27 @@ https://item.jd.com/10593179353.html
 
 （一）跨地域会议（支持国际会议）
 
-* [2018靶向蛋白质组学国际研讨会-Ruedi Aebersold](https://live.maodou.io/course/vs9LiWhi2TAeQvAhB)
+* [2018靶向蛋白质组学国际研讨会-Ruedi Aebersold](https://live.maodouio.com/course/vs9LiWhi2TAeQvAhB)
 
 
-<img class="qrcode"  width=300px src="https://yosemitessl.cdn.maodou.io/images/scenes/live_cncp.png" >
+<img class="qrcode"  width=300px src="https://yosemitessl.cdn.maodouio.com/images/scenes/live_cncp.png" >
 
 (二)大型会议直播
-* [魅力德育体系的构建](https://zhongkeqizhi.maodou.io/course/5qhnrT67pgfsiKbFF)
+* [魅力德育体系的构建](https://zhongkeqizhi.maodouio.com/course/5qhnrT67pgfsiKbFF)
 
 
-<img class="qrcode"  width=300px src="https://yosemitessl.cdn.maodou.io/images/scenes/zhongkeqizhi.png" >
+<img class="qrcode"  width=300px src="https://yosemitessl.cdn.maodouio.com/images/scenes/zhongkeqizhi.png" >
 
 (三)互动课堂
 
-* [北美外教陪孩子玩数理，让家成为国际小学](https://smh.maodou.io/course/HkSgF3KRDLyHT9QQE)
+* [北美外教陪孩子玩数理，让家成为国际小学](https://smh.maodouio.com/course/HkSgF3KRDLyHT9QQE)
 
 
-<img class="qrcode"  width=300px src="https://yosemitessl.cdn.maodou.io/images/scenes/live_ailing.png" >
+<img class="qrcode"  width=300px src="https://yosemitessl.cdn.maodouio.com/images/scenes/live_ailing.png" >
 
 
-* [北美外教陪孩子玩数理，让家成为国际小学](https://live.maodou.io/course/FLZJeyChqDtmwhLfc)   
+* [北美外教陪孩子玩数理，让家成为国际小学](https://live.maodouio.com/course/FLZJeyChqDtmwhLfc)   
 
 
-<img class="qrcode"  width=300px src="https://yosemitessl.cdn.maodou.io/images/scenes/live_ailing02.png" >    
+<img class="qrcode"  width=300px src="https://yosemitessl.cdn.maodouio.com/images/scenes/live_ailing02.png" >    
 

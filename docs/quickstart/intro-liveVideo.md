@@ -2,18 +2,18 @@
 
 # 视频直播快速体验
 
-**我们推荐使用Chrome浏览器，以获得更好的直播体验**，下载地址：[Chrome浏览器](https://maodou.io/download)
+**我们推荐使用Chrome浏览器，以获得更好的直播体验**，下载地址：[Chrome浏览器](https://maodouio.com/download)
 
 视频直播主流程与音频直播一致，这里只介绍视频直播时的直播控制相关操作。
 
-![新建界面](https://docssl.cdn.maodou.io/docs/quickstart/intro-liveVideo1.png)
+![新建界面](https://docssl.cdn.maodouio.com/docs/quickstart/intro-liveVideo1.png)
 
 1. 连线控制：可以控制是否参与音视频连线，取消连线后，其他人将看不到你的画面也听不到你的声音。
 2. 音视频切换：可以控制自己参与连线的方式：
    * 音频：只有声音，没有画面
    * 视频：即有声音，也有画面
 3. 抢占主屏幕：多人连线情况下，当你的主视频区域不在主屏幕时，可以点击次按钮将你的视频放置到主屏幕（主讲模式下，主屏幕是中间的大屏；会议模式下，主屏幕是左上角第一个屏幕）。
-4. 屏幕共享控制：点击后可开启屏幕共享（需安装[毛豆直播插件](https://maodou.io/download)，点击查看[安装方法](https://docssl.cdn.maodou.io/%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.mp4)），可以选择共享整个屏幕/某个应用/某个浏览器标签页，将其内容和你的操作直播出去。
+4. 屏幕共享控制：点击后可开启屏幕共享（需安装[毛豆直播插件](https://maodouio.com/download)，点击查看[安装方法](https://docssl.cdn.maodouio.com/%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.mp4)），可以选择共享整个屏幕/某个应用/某个浏览器标签页，将其内容和你的操作直播出去。
 5. 交换祝辅屏：当开启屏幕共享并且占据主屏幕时，你将拥有两块视频区域：⑨为你的主屏；⓪为你的辅屏。点击 **交换主辅屏** 可以交换两个视频区域的位置，也就是之前的⓪区域放置到主屏幕，之前的⑨区域放置到右下角。
 6. 麦克风开关：控制麦克风，当你不想将你的声音直播出去时可以关闭麦克风。
 7. 摄像头控制：在这里可以控制你的视频输入源
@@ -33,6 +33,6 @@
 
 3. 点击进入直播后需要允许麦克风和摄像头接入，如图所示：
 
-![内容管理](https://docssl.cdn.maodou.io/docs/quickstart/intro-liveVideo2.png)
+![内容管理](https://docssl.cdn.maodouio.com/docs/quickstart/intro-liveVideo2.png)
 v
 [返回首页](../../README.md)

@@ -19,15 +19,15 @@
 
 如下图，显示了购买课程成功以及提前1小时通知的消息推送：
 
-![msg](https://docssl.cdn.maodou.io/docs/settings/settings_msg_show.png)
+![msg](https://docssl.cdn.maodouio.com/docs/settings/settings_msg_show.png)
 
 ### 配置
 
 登录后台后，点击左下方的**账户管理**按钮，选择**运营模式设置**这一选项，如下图，点击下面的**开通**按钮，应用会自动开通公众号的模板消息功能，并添加几项模板：
 
-![settings](https://docssl.cdn.maodou.io/docs/settings/settings_msg_btn.png)
+![settings](https://docssl.cdn.maodouio.com/docs/settings/settings_msg_btn.png)
 
-![settings](https://docssl.cdn.maodou.io/docs/settings/settings_msg_btn1.png)
+![settings](https://docssl.cdn.maodouio.com/docs/settings/settings_msg_btn1.png)
 
 注意事项：
 
@@ -38,9 +38,9 @@
 
 由于只有**关注过**公众号的用户才能**接受**模板消息，我们在首页**我的**页面提供了用户关注公众号二维码的功能，如下图，
 
-![settings](https://docssl.cdn.maodou.io/docs/settings/settings_msg_show_qrcode.png)
+![settings](https://docssl.cdn.maodouio.com/docs/settings/settings_msg_show_qrcode.png)
 
-![settings](https://docssl.cdn.maodou.io/docs/settings/settings_msg_show_qrcode1.png)
+![settings](https://docssl.cdn.maodouio.com/docs/settings/settings_msg_show_qrcode1.png)
 
 ### 更多
 
